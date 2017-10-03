@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: mcmakler
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
+    mongodb_server: 'mongodb://localhost:27017'
+    mongodb_database: 'mcmakler'
+    nasa_api_url: 'https://api.nasa.gov/neo/rest/v1/feed'
+    nasa_api_key: 'N7LkblDsc5aen05FJqBQ8wU4qSdmsftwJagVK7UD'
